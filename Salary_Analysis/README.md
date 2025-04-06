@@ -21,10 +21,10 @@ The primary goal of this dashboard is to provide insights into salary trends for
 
 The following Excel skills were utilized for analysis:
 
-- **📉 Charts**
-- **🧮 Formulas and Functions**
-- **❎ Data Validation**
-- **❎ Pivot Table**
+- **Charts**
+- **Formulas and Functions**
+- **Data Validation**
+- **Pivot Table**
 
 ## Conclusion
 
