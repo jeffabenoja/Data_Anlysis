@@ -27,7 +27,5 @@ With a keen interest in leveraging data to solve complex problems, I’m eager t
 
 ## Connect with Me
 
-- **LinkedIn:** <a href="https://www.linkedin.com/in/jeffabenoja/" target="_blank">My LinkedIn Profile</a>
+- **LinkedIn:** [My Linkedin Profile](https://www.linkedin.com/in/jeffabenoja/)
 - **Email:** [jeffabenoja18@gmail.com](mailto:jeffabenoja18@gmail.com)
-
-Feel free to reach out for mentorship, collaboration, or networking. I’m always open to new opportunities and connecting with like-minded professionals!
